@@ -1,1 +1,2 @@
-This is initial project
+This is example project
+This is a change.
